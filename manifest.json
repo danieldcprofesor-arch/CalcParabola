@@ -1,0 +1,18 @@
+{
+  "name": "Analizador de Elipses Pro",
+  "short_name": "Elipses",
+  "description": "Analizador geométrico de elipses para docentes y estudiantes.",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#0a0e1a",
+  "theme-color": "#0a0e1a",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3412/3412948.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
